@@ -7,7 +7,6 @@ Detects if a human face is wearing a mask or not. Live camera can be integrated 
 ![output 1](output/fmd1.png)
 ![output 2](output/fmd2.png)
 
-<br>
 #### Classifying with mask or without mask from live camera using SVM 
 ![output 3](output/fmd3.png)
 ![output 4](output/fmd4.png)
